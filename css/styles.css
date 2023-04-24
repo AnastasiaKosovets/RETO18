@@ -1,0 +1,32 @@
+.firstbox {
+    width: 20em;
+    height: 10em;
+    background-color: rgb(180, 235, 251);
+    border: 3px solid rgb(99, 17, 161);
+}
+
+.clouds {
+    width: 20em;
+    height: 10em;
+    background: url(../img/f03.png);
+    background-size: 22em;
+    background-repeat: no-repeat;
+    margin-left: 20px;
+}
+
+.mario {
+    width: 20em;
+    height: 15em;
+    background: url(../img/f02.png);
+    background-size: 23em;
+    background-repeat: no-repeat;
+    margin-left: -20px;
+}
+
+.land {
+    width: 20em;
+    height: 15px;
+    background: url(../img/f01.png);
+    position: absolute;
+    bottom: 80.8%;
+}
