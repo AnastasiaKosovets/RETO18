@@ -54,3 +54,30 @@
     position: absolute;
     bottom: -4.9%;
 }
+
+.cloudsOption {
+    display: flex;
+}
+
+.clouds1 {
+    width: 20em;
+    height: 10em;
+    background: url(../img/f03.png);
+    background-size: 22em;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+}
+
+.mario1 {
+    width: 20em;
+    height: 15em;
+    background: url(../img/f02.png);
+    background-size: 23em;
+    background-repeat: no-repeat;
+    
+}
+
+.secondbox {
+    display: flex;
+    flex-wrap: wrap;
+}
