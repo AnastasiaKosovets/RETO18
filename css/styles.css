@@ -59,6 +59,11 @@
     display: flex;
 }
 
+.marioOption {
+    display: flex;
+    align-items: flex-end;    
+}
+
 .clouds1 {
     width: 20em;
     height: 10em;
@@ -74,7 +79,23 @@
     background: url(../img/f02.png);
     background-size: 23em;
     background-repeat: no-repeat;
+    display: flex;
+    justify-content: end;
+}
+
+.land2 {
+    width: 20em;
+    height: 15px;
+    background: url(../img/f01.png);
+    position: absolute;
+    bottom: 185px;
     
+}
+
+.land2-1 {
+    width: 20em;
+    height: 15px;
+    background: url(../img/f01.png);
 }
 
 .secondbox {
