@@ -28,7 +28,7 @@
     height: 15px;
     background: url(../img/f01.png);
     position: absolute;
-    bottom: 80.8%;
+    bottom: 80.6%;
 }
 
 .secondbox {
@@ -45,4 +45,12 @@
     height: 10em;
     background-color: rgb(180, 235, 251);
     border: 3px solid rgb(99, 17, 161);
+}
+
+.land1 {
+    width: 20em;
+    height: 15px;
+    background: url(../img/f01.png);
+    position: absolute;
+    bottom: -4.9%;
 }
