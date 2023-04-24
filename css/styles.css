@@ -52,7 +52,7 @@
     height: 15px;
     background: url(../img/f01.png);
     position: absolute;
-    bottom: -4.9%;
+    bottom: -3.8%;
 }
 
 .cloudsOption {
@@ -79,8 +79,7 @@
     background: url(../img/f02.png);
     background-size: 23em;
     background-repeat: no-repeat;
-    display: flex;
-    justify-content: end;
+  
 }
 
 .land2 {
