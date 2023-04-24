@@ -30,3 +30,19 @@
     position: absolute;
     bottom: 80.8%;
 }
+
+.secondbox {
+    width: 40em;
+    height: 30em;
+    background-color: rgb(180, 235, 251);
+    border: 5px solid rgb(221, 14, 14);
+    margin: 3em;
+    padding: 0%;
+}
+
+.thirdbox {
+    width: 20em;
+    height: 10em;
+    background-color: rgb(180, 235, 251);
+    border: 3px solid rgb(99, 17, 161);
+}
