@@ -10,7 +10,8 @@
     height: 10em;
     background: url(../img/f03.png);
     background-size: 22em;
-    background-repeat: no-repeat;
+    background-repeat: repeat-x;
+    position: absolute;
     margin-left: 20px;
 }
 
